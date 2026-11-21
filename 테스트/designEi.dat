@@ -1,0 +1,28 @@
+[SaveInfo]
+Version=3.91.5
+[InitPage]
+InitPage=Page 1.pgx
+[Recent File]
+Page1=Page 1.pgx
+Page2=Page 2.pgx
+Page Number=2
+[Page 1.pgx]
+x=0
+y=0
+cx=1134
+cy=648
+[Page 2.pgx]
+x=0
+y=0
+cx=1134
+cy=648
+[SYSTAGSELECT.pgx]
+x=80
+y=230
+cx=335
+cy=300
+[SYSTAGSCALE.pgx]
+x=330
+y=250
+cx=310
+cy=210
