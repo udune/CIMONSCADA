@@ -32,3 +32,5 @@ Page1=Page 1.pgx
 Page2=Page 3.pgx
 Page3=Page 2.pgx
 Page Number=3
+[AutoLogout]
+Use=0
