@@ -5,8 +5,8 @@ XLogCount=30
 [Page 1.pgx]
 x=0
 y=0
-cx=958
-cy=615
+cx=1454
+cy=912
 [InitPage]
 InitPage=Page 1.pgx
 [Page 2.pgx]
@@ -15,10 +15,10 @@ y=142
 cx=1140
 cy=436
 [Page 3.pgx]
-x=142
-y=142
-cx=1140
-cy=436
+x=0
+y=0
+cx=1454
+cy=912
 [Static Page]
 Top=PAGE 2
 [Frame]
@@ -29,6 +29,6 @@ Width=800
 Height=600
 [Recent File]
 Page1=Page 1.pgx
-Page2=Page 2.pgx
-Page3=Page 3.pgx
+Page2=Page 3.pgx
+Page3=Page 2.pgx
 Page Number=3
